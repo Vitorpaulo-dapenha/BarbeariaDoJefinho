@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -9,7 +9,7 @@
 @import "partials/header";
 @import "partials/layout";
 
-body{
+body {
   font-family: 'Sora', sans-serif;
   width: 100%;
   height: 100vh;
@@ -18,20 +18,20 @@ body{
   background-color: $primary-normal;
 }
 
-button{
+button {
   font-family: 'Sora', sans-serif;
   cursor: pointer;
 }
 
-svg{
+svg {
   width: 100%;
 }
 
-img{ 
+img {
   width: 100%;
 }
 
-a{
+a {
   cursor: pointer;
   text-decoration: none;
 }
