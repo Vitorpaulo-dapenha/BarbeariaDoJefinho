@@ -1,6 +1,3 @@
-
-# https://vitorpaulo-dapenha.github.io/BarbeariaDoJefinho/
-
 # 💈 Barbearia do Jefinho 💈
 
 Este projeto apresenta o site oficial da **Barbearia do Jefinho**, localizada no centro de Domingos Martins, ao lado da praça principal. Desenvolvido com tecnologias modernas, o site é responsivo, estiloso e reflete a essência da barbearia, oferecendo uma experiência online marcante para os clientes.
@@ -63,6 +60,4 @@ BarbeariaDoJefinho/
 
 Desenvolvido com 💻 por **Vitor Paulo da Penha**.
 
-## Licença
-
-Este projeto é licenciado sob os termos do [MIT](LICENSE).
+## Acesse em: # https://vitorpaulo-dapenha.github.io/BarbeariaDoJefinho/
